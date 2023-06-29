@@ -46,6 +46,7 @@ header.header2{
 }
 main.main2 p{
     font-size: 23px;
+    overflow: hidden;
 }
 main.main2 img{
     max-width: 400px;
