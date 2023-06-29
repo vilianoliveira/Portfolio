@@ -32,7 +32,11 @@ div.logo img{
     max-width: 300px;
 }
 a img{
-    max-width: 300px;
+    max-width: 250px;
+}
+
+img{
+    max-width: 250px;
 }
 header.header2{
     background-image: none;
