@@ -36,7 +36,7 @@ a img{
 }
 
 img{
-    max-width: 250px;
+    width: 60vw;
 }
 header.header2{
     background-image: none;
@@ -49,5 +49,5 @@ main.main2 p{
     overflow: hidden;
 }
 main.main2 img{
-    max-width: 400px;
+    width: 60vw;
 }

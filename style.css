@@ -52,7 +52,6 @@ header{
     background-color: var(--cor3);
     background-image: url(imagens/vilian.png);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-position: top right;
  }
 
